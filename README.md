@@ -37,3 +37,7 @@
      - ImagePopup.js — просмотр увеличенного изображения.
 
 Каждый микрофронтенд отвечает за четко определенную часть функционала.
+
+2 задание.
+https://drive.google.com/file/d/1PAW_LUzpbloW9yITQVzeXuEkk1Kw2C78/view?usp=sharing
+https://app.diagrams.net/#G1PAW_LUzpbloW9yITQVzeXuEkk1Kw2C78#
